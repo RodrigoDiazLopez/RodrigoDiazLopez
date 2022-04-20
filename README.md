@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RodrigoDiazLopez
+- 👀 I’m interested in programming and developing
+- 🌱 I’m currently learning Java, Kotlin and sql
+- 💞️ I’m looking to collaborate on everything i can contibute
